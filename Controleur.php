@@ -56,7 +56,7 @@ require_once("Model.php");
   </tr>
  </table>
     <div id="div_lien">
-    <a href="index.php">cliquer sur le lien pour au formulaire de validation </a>
+    <a href="index.php">Cliquer sur le lien pour au formulaire de validation </a>
     </div>
 </div>
 <div>

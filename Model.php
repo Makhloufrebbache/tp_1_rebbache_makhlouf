@@ -1,6 +1,6 @@
 <!-- Cette page sert de modèle ou les fonctions de notre projet ,
 seront codé afin d'étre appelées par le controleur pour le traitement selon le besoin -->
-
+ 
 <?php
 
 /*  Fonction qui teste la validité de la longueur du mot passé en paramètres et renvoi un tableau associatif à
